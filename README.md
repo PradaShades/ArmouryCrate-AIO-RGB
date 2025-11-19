@@ -19,3 +19,5 @@ To solve this, I created a `.bat` file that allows you to **enable or disable Ar
 ---
 
 This `.bat` file gives you control over ArmouryCrate services, allowing you to switch between default RGB and the ArmouryCrate controlled settings.
+
+I hope this helps someone who had the same problem as me.
