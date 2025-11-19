@@ -23,4 +23,5 @@ This `.bat` file gives you control over ArmouryCrate services, allowing you to s
 I hope this helps someone who had the same problem as me.
 
 
-<img width="976" height="508" alt="image" src="https://github.com/user-attachments/assets/a2c0b7b7-ed45-4b19-a623-2ab78bee2143" />
+<img width="964" height="489" alt="image" src="https://github.com/user-attachments/assets/ff7d0c9d-0eda-42be-be98-a12a2efd78ba" />
+
